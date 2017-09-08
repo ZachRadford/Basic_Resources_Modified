@@ -182,6 +182,9 @@ local function UpdatePointBar()
 		local points, anticipation = UnitPower('player', 4)
 		pointBar:setMax(5)
 		pointText:Hide()
+		if anticipation == nil then 
+			anticipation = 0
+		end
 		if c == 'ROGUE' and points > 5 then
 			anticipation = points - 5
 			points = 5
