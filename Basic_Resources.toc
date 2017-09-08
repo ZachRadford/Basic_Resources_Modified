@@ -1,0 +1,7 @@
+## Interface: 60200
+## Title: Basic |cFFFFD000Resources|r
+## Notes: Basic Resources is an addon for some classes that displays combo points/lacerate/holy power/chi stacks, an energy/rage/mana bar, and a global cooldown bar at your desired location and alerts you when you reach a specified stack
+## Author: Jpapertowels @ www.wowinterface.com & curse.com or Spy#1955 @ BattleTag
+## SavedVariablesPerCharacter: Basic_Resources
+## Version: 1.1.7
+Basic_Resources.lua
